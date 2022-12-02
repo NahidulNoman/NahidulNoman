@@ -1,6 +1,7 @@
-### Hi there 👋, I am Nahidul
-#### Junior-Web-Developer
 ![Junior-Web-Developer](https://media-exp1.licdn.com/dms/image/D4E16AQGfzBQec_i2cA/profile-displaybackgroundimage-shrink_350_1400/0/1669784311885?e=1675296000&v=beta&t=yRG81Hz3NVT7r7Rq-4_WwXio5QS0M5ZBgEwJnxKxgF8)
+
+## Hi there 👋, I am Nahidul
+### Junior-Web-Developer
 
 Well, currently I just completed Web Development as a beginner. I consider myself as a quick learner, self-motivated, responsible, disciplined and deadline-oriented person who can work under pressure and solve problems in a critical situation with analytical knowledge and the latest technology. Further, I am a recognized expert in this section.
 
