@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Junior Front End Developer.</h3>
 </br>
 
-<p align="center"><img height="75" src="https://pbs.twimg.com/profile_banners/1246769662882267137/1670425541/1500x500"></p>
+<p align="center"><img src="https://pbs.twimg.com/profile_banners/1246769662882267137/1670425541/1500x500"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidulnoman&label=Profile%20views&color=0e75b6&style=flat" alt="nahidulnoman" /> </p>
 
